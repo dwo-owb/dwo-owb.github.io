@@ -47,7 +47,7 @@ function submitForm() {
     }
 
     // Display quiz results
-    document.getElementById('quizResultText').innerText = `Your attachment style is: ${attachmentStyle}`;
+    document.getElementById('quizResultText').innerText = `Your attachment style is ${attachmentStyle}`;
     
     // Display survey results
     let surveyResultsText = "Your survey responses:\n";
