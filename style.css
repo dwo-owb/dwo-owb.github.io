@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    text-align: center;
+    text-align: justify;
     padding: 20px;
 }
 
 #quiz-container {
-    background: white;
+    background: pink;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -15,7 +15,7 @@ body {
 }
 
 button {
-    background: #3498db;
+    background: #db34a6;
     color: white;
     padding: 10px 15px;
     border: none;
@@ -24,5 +24,5 @@ button {
 }
 
 button:hover {
-    background: #2980b9;
+    background: #db34a6;
 }
